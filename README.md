@@ -1,4 +1,4 @@
 ciwyni
 ======
 
-An ultra-light web application development tool
+An ultra-light web application project.
